@@ -3,7 +3,6 @@
     [/\b(hi|hello|hey|vanakkam)\b/, "Vanakkam! Ask me about vowels, consonants, numbers, words or sentences."],
     [/vowel/,       "Tamil has 12 vowels. Open the Dashboard and pick Vowels."],
     [/consonant/,   "Tamil has 18 consonants. Pick Consonants on the Dashboard."],
-    [/number of letters/,   "Tamil has 247 letters. Uyir,Mei,Aayudham and uyirmei ezhuthugal. Pick Consonants on the Dashboard."]
     [/number/,      "Learn Tamil numbers 1 to 10 under Numbers."],
     [/sentence/,    "Sentences has four groups: Greetings, Family, Daily and Questions."],
     [/word/,        "Words are grouped: Relations, Animals, Food, Greetings, Home and Nature."],
