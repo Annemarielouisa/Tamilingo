@@ -1,7 +1,7 @@
 // tamil  = what shows on the card
 // sound  = how to say it (English letters)
 // answer = the quiz answer (must be unique within each group)
-// Add a new group inside "words" or "sentences" the same way (keep 4+ items per group).
+
 
 const content = {
   vowels: [
@@ -239,7 +239,6 @@ const content = {
     kongu: [
       { tamil: "ஏனுங்க",          sound: "yenunga",    answer: "Yes? / Excuse me (polite)" },
       { tamil: "அம்மணி",          sound: "ammani",     answer: "Madam / young woman (address)" },
-      { tamil: "",             sound: "seemar",       answer: "Broom" },
       { tamil: "பொறவு",           sound: "poravu",     answer: "Later / afterwards" }
       ],
     tirunelveli: [
