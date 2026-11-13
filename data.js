@@ -232,7 +232,7 @@ const content = {
       { tamil: "அம்புட்டு",       sound: "amputtu",      answer: "That much" },
       { tamil: "இம்புட்டு",       sound: "imputtu",      answer: "This much" },
       { tamil: "ஆத்தாடி",         sound: "aaththaadi",   answer: "Oh my! (surprise)" },
-      { tamil: "என்னாத்துக்கு",   sound: "ennaaththukku",answer: "Why? / What for?" }-
+      { tamil: "என்னாத்துக்கு",   sound: "ennaaththukku",answer: "Why? / What for?" },
       { tamil: "வருவோம்ல",   sound: "varuvomla",answer: "We will come(sarcastically)" }
     ],
 
