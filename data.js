@@ -218,7 +218,8 @@ const content = {
       { tamil: "இது எவ்வளவு?",                 sound: "idhu evvalavu?",                answer: "How much is this?" },
       { tamil: "இந்த இடத்திற்கு எப்படி போவது?", sound: "intha idathirku eppadi povathu?", answer: "How to go here?" },
       { tamil: "உங்களுக்குத் தமிழ் தெரியுமா?", sound: "ungalukku thamizh theriyumaa?", answer: "Do you know Tamil?" }
-    ],
+    ]
+  },
     slang: {
     chennai: [
       { tamil: "மச்சி",           sound: "machi",    answer: "Buddy (friendly address)" },
@@ -249,6 +250,5 @@ const content = {
       { tamil: "என்னவே",          sound: "ennavae",    answer: "What, man?" },
       { tamil: "பொறவு",           sound: "poravu",     answer: "Later / afterwards" }
     ]
-  }
   }
 };
