@@ -218,6 +218,37 @@ const content = {
       { tamil: "இது எவ்வளவு?",                 sound: "idhu evvalavu?",                answer: "How much is this?" },
       { tamil: "இந்த இடத்திற்கு எப்படி போவது?", sound: "intha idathirku eppadi povathu?", answer: "How to go here?" },
       { tamil: "உங்களுக்குத் தமிழ் தெரியுமா?", sound: "ungalukku thamizh theriyumaa?", answer: "Do you know Tamil?" }
+    ],
+    slang: {
+    chennai: [
+      { tamil: "மச்சி",           sound: "machi",    answer: "Buddy (friendly address)" },
+      { tamil: "சிக்கோ",            sound: "chikko",    answer: "Difficult situation(casual)" },
+      { tamil: "கலாய்",           sound: "kalaai",   answer: "To tease or joke around" },
+      { tamil: "பீலா",            sound: "peelaa",   answer: "Bluff / showing off" },
+      { tamil: "செம",             sound: "semma",    answer: "Awesome" }
+    ],
+    madurai: [
+      { tamil: "பாவத்த",             sound: "paavaththa",          answer: "Sarcastic pitiness" },
+      { tamil: "அம்புட்டு",       sound: "amputtu",      answer: "That much" },
+      { tamil: "இம்புட்டு",       sound: "imputtu",      answer: "This much" },
+      { tamil: "ஆத்தாடி",         sound: "aaththaadi",   answer: "Oh my! (surprise)" },
+      { tamil: "என்னாத்துக்கு",   sound: "ennaaththukku",answer: "Why? / What for?" }-
+      { tamil: "வருவோம்ல",   sound: "varuvomla",answer: "We will come(sarcastically)" }
+    ],
+
+    kongu: [
+      { tamil: "ஏனுங்க",          sound: "yenunga",    answer: "Yes? / Excuse me (polite)" },
+      { tamil: "அம்மணி",          sound: "ammani",     answer: "Madam / young woman (address)" },
+      { tamil: "",             sound: "seemar",       answer: "Broom" },
+      { tamil: "பொறவு",           sound: "poravu",     answer: "Later / afterwards" }
+      ],
+    tirunelveli: [
+      { tamil: "ஏலே",             sound: "ele",        answer: "Hey (to a close friend)" },
+      { tamil: "மக்கா",           sound: "makkaa",     answer: "Buddy / friend" },
+      { tamil: "அண்ணாச்சி",       sound: "annaachchi", answer: "Elder brother (also used for shopkeepers)" },
+      { tamil: "என்னவே",          sound: "ennavae",    answer: "What, man?" },
+      { tamil: "பொறவு",           sound: "poravu",     answer: "Later / afterwards" }
     ]
+  }
   }
 };
