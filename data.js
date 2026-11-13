@@ -187,7 +187,6 @@ const content = {
 { tamil: "ஆதவன் ", sound: "Aadhavan", answer: "Sun"},
 { tamil: "பரிதி ", sound: "paridhi", answer: "Sun"}
     ],
-
   },
  
    
@@ -220,7 +219,7 @@ const content = {
       { tamil: "உங்களுக்குத் தமிழ் தெரியுமா?", sound: "ungalukku thamizh theriyumaa?", answer: "Do you know Tamil?" }
     ]
   },
-    slang: {
+  slang: {
     chennai: [
       { tamil: "மச்சி",           sound: "machi",    answer: "Buddy (friendly address)" },
       { tamil: "சிக்கோ",            sound: "chikko",    answer: "Difficult situation(casual)" },
